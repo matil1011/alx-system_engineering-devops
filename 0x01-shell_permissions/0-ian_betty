@@ -1,2 +1,2 @@
 #!/bin/bash
-whoami
+su /0-iam_betty
